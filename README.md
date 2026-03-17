@@ -74,7 +74,7 @@ delicious-grab-zone-etl-pipeline/
 │   ├── 03_delicious_grab_zone_aggregations.ipynb
 │   └── 04_delicious_grab_zone_delta_pipeline.ipynb
 ├── configs/
-│   └── parameters.json
+│   └── delicious_grab_zone_logs.csv
 ├── README.md
 ├── .gitignore
 └── LICENSE
